@@ -1,0 +1,30 @@
+h1{
+    color: blanchedalmond;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: bisque;
+    margin:0;
+    line-height: 1.9;
+}
+header{
+  background-image: url();
+  text-shadow: none;
+}
+footer{
+    color: blue;
+    text-align: center;
+    font-style: calc();
+    background-color: aquamarine;
+}
+h2{
+    color: black;
+    background-color: azure;
+    shape-image-threshold: inherit;
+    text-align: center;
+    shape-margin: 0dvh;
+}
+ul{
+    text-align: center;
+    text-decoration: aqua;
+    text-decoration-line: line-through;
+}

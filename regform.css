@@ -1,0 +1,28 @@
+body{
+    background-color: rgba(238, 88, 7, 0.782);
+    text-align: center;
+    font-family: Arial;
+    font-weight:bolder;
+
+}
+h1{
+    font-size: 50px;
+    font-family: Broadway;
+    color: rgb(50, 58, 147);
+}
+*{
+    text-align: bottom;
+    font-size: 25px;
+    color: rgba(83, 4, 17, 0.39);
+}
+p{
+    color: rgb(44, 160, 155);
+}
+.btn{
+    background-color: rgb(105, 202, 134);
+    color: rgb(214, 111, 74);
+}
+input,textarea{
+    background-color: rgb(175, 150, 232);
+    font-family: Bradley Hand ITC;
+}
